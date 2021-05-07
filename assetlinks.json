@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "liou.rayyuan.links",
+    "sha256_cert_fingerprints":
+    ["9A:11:1E:08:49:F2:F3:7A:A4:83:CE:42:BB:48:66:45:0F:B3:DE:A1:E0:74:C6:B1:56:E9:DF:B0:A1:CB:B3:9A"]
+  }
+}]
